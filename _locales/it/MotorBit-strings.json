@@ -1,0 +1,12 @@
+{
+
+
+  "MotorBit.motorbit_forward|block": "Vai avanti a velocità %n",
+  "MotorBit.motorbit_back|block": "Vai indietro a velocità %n",
+  "MotorBit.motorbit_turnleft|block": "Gira a sinistra a velocità %n",
+  "MotorBit.motorbit_turnright|block": "Gira a destra a velocità %n",
+  "MotorBit.motorbit_brake|block": "Ferma i motori",
+  "MotorBit.motorbit_freestyle|block": "Fai andare la ruota sinistra a velocità %m| e la ruota destra a velocità %n",
+
+
+}

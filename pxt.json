@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "motorbit.ts"
+        "motorbit.ts",
+        "_locales/it/MotorBit-strings.json"
     ],
     "testFiles": [
         "tests.ts"
